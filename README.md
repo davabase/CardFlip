@@ -13,5 +13,7 @@ We use Blender as an animation tool and to do the heavy lifting for perspective 
 
 Additionally we can add the ability to generate in-between frames by linearly interpolating between frames.
 
+You can build this using the dotnet CLI with instructions [here](https://docs.monogame.net/articles/packaging_games.html) or by using the VS Code .NET Core launcher for debugging.
+
 The code in this repository is CC0, public domain.
 The images are public domain from Pixabay.
